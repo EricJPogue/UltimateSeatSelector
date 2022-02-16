@@ -1,24 +1,231 @@
-#Box {
-    width: 320px;
-    padding: 10px;
-    border: 5px solid gray;
-    margin: 0;
-    outline-color: black;
-  }
+.Space{
+  padding-bottom: 10%;
+}
+.split {
+  height: 100%;
+  width: 50%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.bottom{
+ bottom: 0;
+
+}
+.left {
+  left: 0;
+}
+.right {
+  right: 0;
+}
+.row{
+  padding: 1px;
+}
+.topcolumnL{
+  float:left;
+  width: 8%;
+  margin-left: 90px;
+  padding:5px;
+}
+.bottomcolumnL {
+  float:left;
+  width: 15%;
+  padding:5px;
+}
+.topcolumnR{
+  float:right;
+  width: 8%;
+  margin-right: 90px;
+  padding:5px;
+}
+.bottomcolumnR {
+  float:right;
+  width: 15%;
+  padding:5px;
+}
+.midleft{
+  padding-left: 50%;
+}
+.midright{
+  padding-left: 30%;
+}
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 #Box1 {
-    width: 320px;
+    width: 100px;
     padding: 10px;
     border: 5px solid gray;
     margin: 0;
     outline-color: black;
   }
-  #Box2 {
-    width: 320px;
+#Box2 {
+    width: 100px;
     padding: 10px;
     border: 5px solid gray;
     margin: 0;
     outline-color: black;
-  }
+}
+#Box3 {
+    width: 100px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+    outline-color: black;
+}
+#Box4 {
+  width: 100px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  outline-color: black;
+}
+#Box5 {
+  width: 100px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  outline-color: black;
+}
+#Box6 {
+  width: 100px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  outline-color: black;
+}
+#Box7 {
+  width: 100px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  outline-color: black;
+}
+#Box8 {
+  width: 100px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  outline-color: black;
+}
+#Box9 {
+  width: 100px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  outline-color: black;
+}
+#Box10 {
+  width: 100px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  outline-color: black;
+}
+#Box11 {
+  width: 100px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  outline-color: black;
+}
+#Box12 {
+  width: 100px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  outline-color: black;
+}
+#Box13 {
+  width: 100px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  outline-color: black;
+}
+#Box14 {
+  width: 100px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  outline-color: black;
+}
+#Box15 {
+  width: 100px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  outline-color: black;
+}
+#Box16 {
+  width: 100px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  outline-color: black;
+}
+#Box17 {
+  width: 100px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  outline-color: black;
+}
+#Box18 {
+  width: 100px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  outline-color: black;
+}
+#Box19 {
+  width: 100px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  outline-color: black;
+}
+#Box20 {
+  width: 100px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  outline-color: black;
+}
+#Box21 {
+  width: 100px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  outline-color: black;
+}
+#Box22 {
+  width: 100px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  outline-color: black;
+}
+#Box23 {
+  width: 100px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  outline-color: black;
+}
+#Box24 {
+  width: 100px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  outline-color: black;
+}
   
 /* Popup container */
 .popup {
