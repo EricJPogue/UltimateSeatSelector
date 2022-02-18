@@ -1,6 +1,6 @@
 function myFunction1() {
     var x;
-        let firstName = prompt("First Name: ")
+        let firstName = prompt("First Name1: ")
         let lastName = prompt("Last Name: ")
         console.log(firstName);
         console.log(lastName);
